@@ -1,0 +1,8 @@
+h1{
+    border: 3px solid rgb(131, 73, 73);
+    padding: 10px 20px;
+    margin: 10px 20px;
+    width: 200px;
+    background-color: bisque;
+    border-radius:10px;
+}
